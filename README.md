@@ -10,3 +10,4 @@
   git add main.py #특정 파일만 추가한다.
   ```
 - `git commit -m "제목"`: 작업한 이력을 기록한다.
+- `git branch`: branch명 확인하는 명령어
