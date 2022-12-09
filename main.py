@@ -10,4 +10,4 @@ for website in websites:
     website = f"https://{website}"
 
   response = get(website)
-  print(response.status_code)
+  print(response.status_code)  #결과 값이 코드로만 나옴
